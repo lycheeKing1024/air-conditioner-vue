@@ -8,7 +8,7 @@
 -->
 <template>
   <div class="air-conditioner-main-top">
-    <h1 class="air-conditioner-main-top-title">便携小空调</h1>
+    <h1 class="air-conditioner-main-top-title">兔儿专属小空调</h1>
   </div>
 </template>
 
